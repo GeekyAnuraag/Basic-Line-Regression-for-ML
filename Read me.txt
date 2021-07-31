@@ -1,0 +1,2 @@
+This a very basic project of Line regression in Machine Learning.
+It can be found around at many places. I am just a learner and applying things what I learn
